@@ -3,7 +3,7 @@
 A responsive, full-stack Farmer Support Website built with **HTML, CSS, JavaScript, PHP, and MySQL**.  
 This project helps farmers access farming equipment, fertilizers, seeds, and useful agricultural content online.
 
----
+
 
 ## 🚀 Features
 
@@ -15,7 +15,7 @@ This project helps farmers access farming equipment, fertilizers, seeds, and use
 - ✅ Responsive UI with modern styling
 - ✅ Admin-ready structure (future scope)
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -25,14 +25,14 @@ This project helps farmers access farming equipment, fertilizers, seeds, and use
 - **IDE:** Apache NetBeans
 - **Server:** XAMPP (localhost)
 
----
+
 
 ## 📁 Folder Structure
 
 
 
 
----
+
 
 ## ✨ Screenshots
 
@@ -59,14 +59,11 @@ This project helps farmers access farming equipment, fertilizers, seeds, and use
 
 8. **Contact**
 
----
 
 ## 🧩 Database Setup (Run via phpMyAdmin)
 
 Run the queries in XAMPP sql Admin from SQL "Qyeries.sql"
 
-
----
 
 ## 🔐 Login Credentials (for testing)
 
