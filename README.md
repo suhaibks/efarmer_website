@@ -59,7 +59,7 @@ This project helps farmers access farming equipment, fertilizers, seeds, and use
 
 ## 🧩 Database Setup (Run via phpMyAdmin)
 
-Run the queries in XAMPP sql Admin from SQL "Qyeries.sql"
+Run the queries in XAMPP sql Admin from "SQL Qyeries.txt"
 
 
 ## 🔐 Login Credentials (for testing)
