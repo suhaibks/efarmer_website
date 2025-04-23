@@ -28,10 +28,7 @@ This project helps farmers access farming equipment, fertilizers, seeds, and use
 
 
 ## 📁 Folder Structure
-
-
-
-
+  ![structure](https://github.com/user-attachments/assets/51b2dfbf-4090-4626-aa34-c8f56df286bd)
 
 
 ## ✨ Screenshots
