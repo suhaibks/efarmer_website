@@ -36,37 +36,14 @@ This project helps farmers access farming equipment, fertilizers, seeds, and use
 
 ## 🧩 Database Setup (Run via phpMyAdmin)
 
-```sql
-CREATE DATABASE farmer_site;
-USE farmer_site;
+Run the queries in XAMPP sql Admin from SQL "Qyeries.sql"
 
--- Users table
-CREATE TABLE users (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  username VARCHAR(100) NOT NULL,
-  dob DATE NOT NULL,
-  email VARCHAR(100) NOT NULL UNIQUE,
-  address VARCHAR(255),
-  password VARCHAR(255) NOT NULL
-);
-
--- Feedback table
-CREATE TABLE feedback (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  name VARCHAR(100),
-  email VARCHAR(100),
-  message TEXT,
-  submitted_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);```
 
 ---
 
 ##🔐 Login Credentials (for testing)
-You can register via the signup page or manually insert a test user into the database:
 
-sql
-Copy
-Edit
+You can register via the signup page or manually insert a test user into the database:
 INSERT INTO users (username, dob, email, address, password)
 VALUES ('Test User', '2000-01-01', 'test@example.com', 'Farmville', ''); 
 -- Use PHP's password_hash() to generate a secure password
