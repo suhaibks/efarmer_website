@@ -59,6 +59,7 @@ CREATE TABLE feedback (
   submitted_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
+---
 
 ##🔐 Login Credentials (for testing)
 You can register via the signup page or manually insert a test user into the database:
