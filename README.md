@@ -57,7 +57,7 @@ CREATE TABLE feedback (
   email VARCHAR(100),
   message TEXT,
   submitted_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
+);```
 
 ---
 
