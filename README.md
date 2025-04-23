@@ -34,6 +34,33 @@ This project helps farmers access farming equipment, fertilizers, seeds, and use
 
 ---
 
+## ✨ Screenshots
+
+1. **Signup**
+
+
+2. **Login**
+
+
+3. **Home**
+
+
+4. **Equipment**
+
+
+5. **Fertilizers**
+
+
+6. **Seeds**
+
+
+7. **About**
+
+
+8. **Contact**
+
+---
+
 ## 🧩 Database Setup (Run via phpMyAdmin)
 
 Run the queries in XAMPP sql Admin from SQL "Qyeries.sql"
